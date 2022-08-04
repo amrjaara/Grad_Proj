@@ -1,8 +1,7 @@
-# Grad_Proj
+# Grad_Proj (Full Automated Penetration Testing Tool with Machine Learning/Deep Learning)
 Graduation Project (2022)
+This Work Done by: Yazan Solila, Amr Jara
 
-# Full Automated Penetration Testing Tool with Machine Learning/Deep Learning 
-##############################################################################
-# This Work Done by: Yazan Solila, Amr Jara
-![3phases of pen testing](https://user-images.githubusercontent.com/72103457/182889203-6b1a11f5-6ff9-40b7-ad06-c90c849e1d1a.png)
+![4phases of pen testing](https://user-images.githubusercontent.com/72103457/182890074-f80a91a3-b8ec-4b97-aa6c-24a5011d7a84.jpg)
+
 # First step is 
