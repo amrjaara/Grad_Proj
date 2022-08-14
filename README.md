@@ -18,6 +18,8 @@ Twitter: https://twitter.com/yazan_i_solila
 
 ![4phases of pen testing](https://user-images.githubusercontent.com/72103457/182890074-f80a91a3-b8ec-4b97-aa6c-24a5011d7a84.jpg)
 
+The owner of a Website must have a SIGNED LEGLA CONTRACT
+
 # First step is Recon/Info Gathering
 
 this is the list of tools that we used it in our tool:
