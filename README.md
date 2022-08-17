@@ -26,4 +26,4 @@ this is the list of tools that we used it in our tool:
 
 * whois: Whenever someone buys a domain then his/her information is stored in a database and then whois is protocol which queries those database and show us information about that particular target.
 * whatweb : it shows what is the web server you run in your server and the Version (example: Apache[2.4.46]).
-*hi mother mohtram
+hi yazan
